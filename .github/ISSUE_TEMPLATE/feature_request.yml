@@ -1,0 +1,16 @@
+name: 功能与文档建议
+description: 描述你希望改善的使用场景。
+title: "[建议] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: 使用场景
+      description: 遇到了什么问题？希望如何改善？新增平台请提供名称和公开官网。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议方案
+      description: 可补充脱敏示意图或参考链接。

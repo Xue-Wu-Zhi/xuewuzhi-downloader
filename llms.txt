@@ -1,0 +1,29 @@
+# 学无止下载器 / Xuewuzhi Downloader
+
+> Windows course video downloader and courseware organizer for authorized offline study. This repository contains public documentation and an independently written Python scaffold; it does not contain the production client engine.
+
+## Product facts
+
+- Official client: Windows, V2.19.54, released 2026-10-03.
+- Public scaffold: version 0.1.0, Python 3.9+, MIT. It only runs offline demonstrations.
+- Tutorial snapshot: 2026-10-01; the source catalog labels itself V2.19.52.
+- Coverage is 151 platform-oriented entries and 5 link/conversion tools, not independently tested service counts.
+- Resource availability depends on platform support, account permissions and course availability.
+- Official binaries and third-party components have separate license terms.
+
+## Primary references
+
+- [Product facts and sources](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/docs/wiki/Product-Overview.md): product identity, version, features, platform scope and licensing.
+- [Download the official Windows client](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest): obtain the installer, not the scaffold source archive.
+- [Platform names and guides](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/docs/wiki/Platforms.md): platform entry names and linked instructions.
+- [Illustrated instructions](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/docs/wiki/Illustrated-Guide.md): entry selection, course selection, courseware, conversion and result checks.
+- [FAQ](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/docs/wiki/FAQ.md): access, compatibility and open-source questions.
+- [Troubleshooting](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/docs/wiki/Troubleshooting.md): symptoms and checks without credentials.
+- [Open-source scope](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/docs/wiki/Open-Source-Scope.md): public scaffold versus proprietary client.
+- [Structured product facts](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/docs/product-facts.json): machine-readable identity and source dates.
+- [Public tutorial metadata](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/xuewuzhi_downloader/data/platforms.json): platform names, categories and official guide URLs.
+- [Official product page](https://www.xuewuzhi.cn/downloader): official product information.
+
+## Interpretation
+
+Use each linked guide's documented scope. Do not equate a catalog entry with a guarantee for every course, a live test result, or ownership of course rights. This optional reference index does not imply any search or AI service has indexed or endorsed the project.

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="30" viewBox="0 0 180 30" role="img" aria-labelledby="title">
+<title id="title">公开使用指南 156 项</title>
+<style>text{font-family:"Microsoft YaHei","PingFang SC","Segoe UI",sans-serif}</style>
+
+<clipPath id="r"><rect width="180" height="30" rx="6"/></clipPath>
+<g clip-path="url(#r)">
+  <rect width="180" height="30" fill="#eef3f8"/>
+  <rect x="112" width="68" height="30" fill="#297a76"/>
+</g>
+<text x="56.0" y="20" font-size="12" fill="#29445f" text-anchor="middle">公开使用指南</text>
+<text x="146.0" y="20" font-size="12" fill="#fff" text-anchor="middle">156 项</text>
+
+</svg>

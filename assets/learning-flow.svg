@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" role="img" aria-labelledby="title">
+<title id="title">选择课程、保存资料、离线复习</title>
+<style>text{font-family:"Microsoft YaHei","PingFang SC","Segoe UI",sans-serif}</style>
+
+<rect x="1" y="1" width="1278" height="248" rx="16" fill="#f5f9fe" stroke="#dce6f1"/>
+<path d="M399 124H441M428 114L440 124L428 134M825 124H867M854 114L866 124L854 134" stroke="#7893b0" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<g transform="translate(36 39)">
+  <rect width="62" height="62" rx="18" fill="#dceafb"/>
+  <path d="M17 18H45V46H17ZM17 27H45M27 27V46" stroke="#23578e" fill="none" stroke-width="2.5"/>
+  <text x="0" y="103" font-size="25" fill="#173e68" font-weight="700">选好一门课</text>
+  <text x="0" y="139" font-size="18" fill="#586e86">选择平台、课程与章节</text>
+  <text x="0" y="166" font-size="18" fill="#586e86">用自己的上课账号登录</text>
+</g>
+<g transform="translate(466 39)">
+  <rect width="62" height="62" rx="18" fill="#ffeac5"/>
+  <path d="M14 23V18H29L34 23H49V46H14ZM14 29H49" stroke="#996c28" fill="none" stroke-width="2.5"/>
+  <text x="0" y="103" font-size="25" fill="#173e68" font-weight="700">保存成一套资料</text>
+  <text x="0" y="139" font-size="18" fill="#586e86">视频、音频、讲义与附件</text>
+  <text x="0" y="166" font-size="18" fill="#586e86">具体内容以课程实际提供为准</text>
+</g>
+<g transform="translate(902 39)">
+  <rect width="62" height="62" rx="18" fill="#d9f0ee"/>
+  <path d="M13 18Q24 15 31 21Q39 15 49 18V43Q39 40 31 46Q23 40 13 43ZM31 21V46" stroke="#27766e" fill="none" stroke-width="2.5"/>
+  <text x="0" y="103" font-size="25" fill="#173e68" font-weight="700">随时打开，继续学</text>
+  <text x="0" y="139" font-size="18" fill="#586e86">按章节查找，按节奏复习</text>
+  <text x="0" y="166" font-size="18" fill="#586e86">让资料为下一次学习做好准备</text>
+</g>
+
+</svg>

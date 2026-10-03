@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "xuewuzhi-downloader"
+version = "0.1.0"
+description = "Public documentation and an offline architecture scaffold for Xuewuzhi Downloader."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {file = "LICENSE"}
+authors = [{name = "Xue-Wu-Zhi"}]
+dependencies = []
+keywords = ["education", "offline-learning", "scaffold", "xuewuzhi"]
+
+[project.urls]
+Homepage = "https://www.xuewuzhi.cn/downloader"
+Repository = "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader"
+Documentation = "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/wiki"
+Issues = "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/issues"
+
+[project.scripts]
+xuewuzhi-demo = "xuewuzhi_downloader.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["xuewuzhi_downloader*"]
+
+[tool.setuptools.package-data]
+xuewuzhi_downloader = ["data/*.json"]

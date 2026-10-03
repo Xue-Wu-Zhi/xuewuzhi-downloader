@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用教程
+    url: https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/wiki
+    about: 安装、平台说明与常见问题。
+  - name: 官网
+    url: https://www.xuewuzhi.cn/downloader
+    about: 官方下载与产品信息。

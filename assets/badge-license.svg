@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="30" viewBox="0 0 130 30" role="img" aria-labelledby="title">
+<title id="title">公开骨架 MIT</title>
+<style>text{font-family:"Microsoft YaHei","PingFang SC","Segoe UI",sans-serif}</style>
+
+<clipPath id="r"><rect width="130" height="30" rx="6"/></clipPath>
+<g clip-path="url(#r)">
+  <rect width="130" height="30" fill="#eef3f8"/>
+  <rect x="84" width="46" height="30" fill="#746139"/>
+</g>
+<text x="42.0" y="20" font-size="12" fill="#29445f" text-anchor="middle">公开骨架</text>
+<text x="107.0" y="20" font-size="12" fill="#fff" text-anchor="middle">MIT</text>
+
+</svg>

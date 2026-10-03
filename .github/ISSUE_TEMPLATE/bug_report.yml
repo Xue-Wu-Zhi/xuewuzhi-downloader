@@ -1,0 +1,32 @@
+name: 使用问题
+description: 反馈客户端或开源骨架的问题，请移除所有账号信息。
+title: "[问题] "
+body:
+  - type: dropdown
+    id: component
+    attributes:
+      label: 问题发生在哪里？
+      options:
+        - 官方 Windows 客户端
+        - 开源骨架 / 文档
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 版本与系统
+      placeholder: "例如：V2.19.54 / Windows 11"
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: 平台与入口
+      placeholder: "平台名称、平台列表或课程链接入口（不要粘贴鉴权链接）"
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤、期望结果与实际结果
+      description: 描述操作过程与脱敏错误提示。请勿提供课程账号、验证码、Cookie 或 Token。
+    validations:
+      required: true

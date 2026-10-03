@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="650" viewBox="0 0 1280 650" role="img" aria-labelledby="title">
+<title id="title">学无止下载器 — 把好课程，装进你的学习库</title>
+<style>text{font-family:"Microsoft YaHei","PingFang SC","Segoe UI",sans-serif}</style>
+
+<defs>
+  <linearGradient id="sea" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#153c70"/><stop offset="1" stop-color="#0d2446"/></linearGradient>
+  <linearGradient id="page" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7fbff"/><stop offset="1" stop-color="#dceafa"/></linearGradient>
+  <pattern id="rule" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#74b7ed" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1280" height="650" rx="22" fill="url(#sea)"/>
+<rect width="1280" height="650" rx="22" fill="url(#rule)"/>
+<path d="M670 650C905 451 895 120 1280 62M734 650C969 451 959 160 1280 127M798 650C1033 451 1023 220 1280 192" fill="none" stroke="#42749c" stroke-opacity=".30" stroke-width="1.5"/>
+<g transform="translate(66 56)" fill="none" stroke="#83e1ff" stroke-width="3.2" stroke-linejoin="round">
+  <path d="M0 1C10-1 19 2 25 7C31 2 40-1 50 1V37C40 35 31 38 25 43C19 38 10 35 0 37Z"/>
+  <path d="M25 8V34M14 22L25 33L36 22"/>
+</g>
+<text x="137" y="81" fill="#f7fbff" font-size="28" font-weight="700">学无止下载器</text>
+<text x="68" y="217" fill="#f7fbff" font-size="63" font-weight="750">把好课程，</text>
+<text x="68" y="304" fill="#f7fbff" font-size="57" font-weight="750">装进你的学习库。</text>
+<text x="72" y="367" fill="#c4d8ef" font-size="22">视频、回放、课件，按章节归档。</text>
+<text x="72" y="404" fill="#c4d8ef" font-size="22">每一次打开，都是下一次进步。</text>
+<path d="M72 457H531" stroke="#547292" stroke-opacity=".6"/>
+<circle cx="81" cy="497" r="6" fill="#63d8ff"/>
+<text x="100" y="505" fill="#e9f5ff" font-size="19">Windows 客户端</text>
+<text x="302" y="505" fill="#e9f5ff" font-size="19">156 项使用指南</text>
+<text x="72" y="584" fill="#90b2d4" font-size="17">从一门课程，到自己的学习资料库。</text>
+
+<g transform="translate(730 121)">
+  <path d="M17 340L48 379L428 369L450 340" fill="#071c36" opacity=".4"/>
+  <path d="M32 121H381L422 365H73Z" fill="#42688d"/>
+  <path d="M54 96H397L429 347H89Z" fill="#759bbc"/>
+  <rect x="29" y="68" width="376" height="286" rx="14" fill="url(#page)" transform="rotate(-5 29 68)"/>
+  <path d="M24 151V83Q24 69 38 69H134L153 91H425Q440 91 440 106V370Q440 386 424 386H39Q24 386 24 371Z" fill="#ffd285"/>
+  <path d="M24 153H440V369Q440 386 424 386H39Q24 386 24 369Z" fill="#edb96b"/>
+  <rect x="1" y="134" width="424" height="239" rx="15" fill="#fff" stroke="#d5e2ef"/>
+  <path d="M1 187H425" stroke="#e4edf5"/>
+  <circle cx="30" cy="161" r="5" fill="#377cad"/>
+  <text x="47" y="168" fill="#233d59" font-size="18" font-weight="700">我的学习资料</text>
+  <rect x="30" y="212" width="42" height="43" rx="9" fill="#e1f1fc"/>
+  <path d="M47 223L59 233L47 242Z" fill="#206ba2"/>
+  <text x="88" y="231" fill="#233d59" font-size="18" font-weight="700">01 课程视频</text>
+  <text x="88" y="254" fill="#627d95" font-size="14">打开文件，接着学</text>
+  <path d="M31 275H393" stroke="#e4edf5"/>
+  <rect x="30" y="292" width="42" height="43" rx="9" fill="#fff1d7"/>
+  <path d="M44 302H58V325H44ZM47 309H55M47 315H55" stroke="#a36c13" fill="none" stroke-width="1.7"/>
+  <text x="88" y="311" fill="#233d59" font-size="18" font-weight="700">02 随课讲义</text>
+  <text x="88" y="334" fill="#627d95" font-size="14">重点、笔记，一起复习</text>
+  <path d="M367 230L374 237L388 221M367 310L374 317L388 301" fill="none" stroke="#2b8575" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="184" y="412" width="264" height="45" rx="22" fill="#194a73" stroke="#4183ac"/>
+  <circle cx="205" cy="435" r="4" fill="#83e1ff"/>
+  <text x="220" y="442" fill="#d6f5ff" font-size="17">有序保存 · 随时复习</text>
+</g>
+
+</svg>

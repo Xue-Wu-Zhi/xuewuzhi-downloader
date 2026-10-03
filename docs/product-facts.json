@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "name": "学无止下载器",
+  "english_name": "Xuewuzhi Downloader",
+  "repository": "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader",
+  "website": "https://www.xuewuzhi.cn/downloader",
+  "description": "Windows 网课视频下载与课件整理工具，支持的资源以平台、账号权限和课程开放状态为准。",
+  "client": {
+    "version": "V2.19.54",
+    "release_date": "2026-10-03",
+    "operating_system": "Windows",
+    "download_url": "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest"
+  },
+  "public_repository": {
+    "role": "文档、公开目录和可运行离线骨架；不含官方核心实现",
+    "scaffold_version": "0.1.0",
+    "python": ">=3.9",
+    "license": "MIT",
+    "binary_license": "单独分发的客户端与第三方组件适用各自条款"
+  },
+  "resource_types": [
+    "课程视频",
+    "已开放直播回放",
+    "音频",
+    "课程附件",
+    "支持格式的板书与三分屏",
+    "有效媒体直链",
+    "支持格式的课程转换"
+  ],
+  "catalog": {
+    "source": "https://www.xuewuzhi.cn/tutorials",
+    "snapshot_date": "2026-10-01",
+    "catalog_version": "V2.19.52",
+    "platform_entries": 151,
+    "utility_entries": 5,
+    "count_note": "入口及文档数量，不是独立服务商数量或逐项实测承诺"
+  },
+  "guide": "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/wiki/Getting-Started",
+  "platforms": "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/wiki/Platforms",
+  "sources": [
+    "https://www.xuewuzhi.cn/downloader",
+    "https://www.xuewuzhi.cn/tutorials",
+    "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/docs/releases/v2.19.54.md"
+  ],
+  "compiled_on": "2026-10-03"
+}

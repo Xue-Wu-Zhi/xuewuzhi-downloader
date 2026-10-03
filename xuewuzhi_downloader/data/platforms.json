@@ -1,0 +1,944 @@
+{
+  "source": "https://www.xuewuzhi.cn/tutorials",
+  "snapshot_date": "2026-10-01",
+  "source_catalog_version": "V2.19.52",
+  "scope": "Official client tutorial entries; proprietary adapters are not included.",
+  "entries": [
+    {
+      "id": "study163",
+      "name": "网易云课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/study163_downloader"
+    },
+    {
+      "id": "youdao",
+      "name": "有道精品课",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/youdao_downloader"
+    },
+    {
+      "id": "ydshengxue",
+      "name": "有道领世",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/ydshengxue_downloader"
+    },
+    {
+      "id": "todoen",
+      "name": "高途雅思",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/todoen_downloader"
+    },
+    {
+      "id": "gaotu",
+      "name": "高途",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/gaotu_downloader"
+    },
+    {
+      "id": "tutu",
+      "name": "途途课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/tutu_downloader"
+    },
+    {
+      "id": "gaotugaozhong",
+      "name": "高途高中规划",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/gaotugaozhong_downloader"
+    },
+    {
+      "id": "gaotusuyang",
+      "name": "高途素养",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/gaotusuyang_downloader"
+    },
+    {
+      "id": "xiwang",
+      "name": "希望学",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xiwang_downloader"
+    },
+    {
+      "id": "xiwangsuyang",
+      "name": "希望学素养",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xiwangsuyang_downloader"
+    },
+    {
+      "id": "xiwangyouke",
+      "name": "希望优课",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xiwangyouke_downloader"
+    },
+    {
+      "id": "eoffcn",
+      "name": "中公网校",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/eoffcn_downloader"
+    },
+    {
+      "id": "plaso",
+      "name": "伯索云学堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/plaso_downloader"
+    },
+    {
+      "id": "aiwenyun",
+      "name": "爱问云",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/aiwenyun_downloader"
+    },
+    {
+      "id": "jhpy",
+      "name": "家辉云",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/jhpy_downloader"
+    },
+    {
+      "id": "orangevip",
+      "name": "橙啦",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/orangevip_downloader"
+    },
+    {
+      "id": "xuelang",
+      "name": "抖音课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xuelang_downloader"
+    },
+    {
+      "id": "kaoyanvip",
+      "name": "研途",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/kaoyanvip_downloader"
+    },
+    {
+      "id": "lizhiweike",
+      "name": "荔课",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/lizhiweike_downloader"
+    },
+    {
+      "id": "htknow",
+      "name": "海豚知道",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/htknow_downloader"
+    },
+    {
+      "id": "ledu",
+      "name": "乐读",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/ledu_downloader"
+    },
+    {
+      "id": "qlchat",
+      "name": "千聊",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/qlchat_downloader"
+    },
+    {
+      "id": "xingqudao",
+      "name": "兴趣岛",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xingqudao_downloader"
+    },
+    {
+      "id": "dingtalk",
+      "name": "钉钉群与钉钉链接",
+      "category": "会议与企业培训",
+      "guide_url": "https://www.xuewuzhi.cn/dingtalk_downloader"
+    },
+    {
+      "id": "xiaoetech",
+      "name": "小鹅通(PC端)",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xiaoetech_downloader"
+    },
+    {
+      "id": "koolearn",
+      "name": "新东方在线",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/koolearn_downloader"
+    },
+    {
+      "id": "roombox",
+      "name": "新东方云教室",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/roombox_downloader"
+    },
+    {
+      "id": "xiaoeapp",
+      "name": "小鹅通(APP端)",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xiaoeapp_downloader"
+    },
+    {
+      "id": "haozaixian",
+      "name": "好课在线",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/haozaixian_downloader"
+    },
+    {
+      "id": "hqwx",
+      "name": "环球网校",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/hqwx_downloader"
+    },
+    {
+      "id": "kuke",
+      "name": "库课网校",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/kuke_downloader"
+    },
+    {
+      "id": "classin",
+      "name": "ClassIn",
+      "category": "会议与企业培训",
+      "guide_url": "https://www.xuewuzhi.cn/classin_downloader"
+    },
+    {
+      "id": "xueersi",
+      "name": "学而思网校",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xueersi_downloader"
+    },
+    {
+      "id": "speiyou",
+      "name": "学而思培优",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/speiyou_downloader"
+    },
+    {
+      "id": "xuejiayun",
+      "name": "学家云",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xuejiayun_downloader"
+    },
+    {
+      "id": "zlketang",
+      "name": "之了课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/zlketang_downloader"
+    },
+    {
+      "id": "zhaozhao",
+      "name": "昭昭医考",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/zhaozhao_downloader"
+    },
+    {
+      "id": "wallstreets",
+      "name": "华尔街学堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/wallstreets_downloader"
+    },
+    {
+      "id": "renrenjiang",
+      "name": "人人讲",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/renrenjiang_downloader"
+    },
+    {
+      "id": "sanjieke",
+      "name": "三节课",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/sanjieke_downloader"
+    },
+    {
+      "id": "yizhiknow",
+      "name": "易知课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yizhiknow_downloader"
+    },
+    {
+      "id": "tmooc",
+      "name": "达内慕课网",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/tmooc_downloader"
+    },
+    {
+      "id": "cto51",
+      "name": "51CTO学堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/cto51_downloader"
+    },
+    {
+      "id": "aishangke",
+      "name": "哎上课",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/aishangke_downloader"
+    },
+    {
+      "id": "med66",
+      "name": "正保医学",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/med66_downloader"
+    },
+    {
+      "id": "zhengbao",
+      "name": "正保会计",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/zhengbao_downloader"
+    },
+    {
+      "id": "jianshe99",
+      "name": "正保建设工程",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/jianshe99_downloader"
+    },
+    {
+      "id": "wangxiao233",
+      "name": "233网校",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/wangxiao233_downloader"
+    },
+    {
+      "id": "wangxiao",
+      "name": "中大网校",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/wangxiao_downloader"
+    },
+    {
+      "id": "haiyangknow",
+      "name": "海洋知道",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/haiyangknow_downloader"
+    },
+    {
+      "id": "minshi",
+      "name": "敏试教师",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/minshi_downloader"
+    },
+    {
+      "id": "yunduan",
+      "name": "云端课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yunduan_downloader"
+    },
+    {
+      "id": "kaimingzhixue",
+      "name": "开明致学",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/kaimingzhixue_downloader"
+    },
+    {
+      "id": "jinbangshidai",
+      "name": "金榜时代",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/jinbangshidai_downloader"
+    },
+    {
+      "id": "chaoge",
+      "name": "超格教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/chaoge_downloader"
+    },
+    {
+      "id": "fenbi",
+      "name": "粉笔",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/fenbi_downloader"
+    },
+    {
+      "id": "yixiaoerguo",
+      "name": "一笑而过",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yixiaoerguo_downloader"
+    },
+    {
+      "id": "baijiayunxiao",
+      "name": "百家云校",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/baijiayunxiao_downloader"
+    },
+    {
+      "id": "ranling",
+      "name": "燃领",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/ranling_downloader"
+    },
+    {
+      "id": "cctalk",
+      "name": "CCtalk",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/cctalk_downloader"
+    },
+    {
+      "id": "huke88",
+      "name": "虎课网",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/huke88_downloader"
+    },
+    {
+      "id": "wowtiku",
+      "name": "哇题库",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/wowtiku_downloader"
+    },
+    {
+      "id": "yangcong",
+      "name": "洋葱学院",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yangcong_downloader"
+    },
+    {
+      "id": "mddclass",
+      "name": "墨督督",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/mddclass_downloader"
+    },
+    {
+      "id": "ckjr",
+      "name": "创客匠人",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/ckjr_downloader"
+    },
+    {
+      "id": "duanshu",
+      "name": "短书",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/duanshu_downloader"
+    },
+    {
+      "id": "youzan",
+      "name": "有赞",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/youzan_downloader"
+    },
+    {
+      "id": "shanxiang",
+      "name": "山香教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/shanxiang_downloader"
+    },
+    {
+      "id": "mashibing",
+      "name": "码士集团",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/mashibing_downloader"
+    },
+    {
+      "id": "houdu",
+      "name": "厚读",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/houdu_downloader"
+    },
+    {
+      "id": "nmkjxy",
+      "name": "柠檬云课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/nmkjxy_downloader"
+    },
+    {
+      "id": "huatu",
+      "name": "华图在线",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/huatu_downloader"
+    },
+    {
+      "id": "ahu",
+      "name": "阿虎医考",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/ahu_downloader"
+    },
+    {
+      "id": "wendao",
+      "name": "问到课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/wendao_downloader"
+    },
+    {
+      "id": "caixuetang",
+      "name": "财学堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/caixuetang_downloader"
+    },
+    {
+      "id": "lexueyun",
+      "name": "乐学云课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/lexueyun_downloader"
+    },
+    {
+      "id": "xsteach",
+      "name": "邢帅教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xsteach_downloader"
+    },
+    {
+      "id": "magedu",
+      "name": "马哥教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/magedu_downloader"
+    },
+    {
+      "id": "jingtongxue",
+      "name": "精通课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/jingtongxue_downloader"
+    },
+    {
+      "id": "houda",
+      "name": "厚大法考",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/houda_downloader"
+    },
+    {
+      "id": "qihang",
+      "name": "启航教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/qihang_downloader"
+    },
+    {
+      "id": "luffycity",
+      "name": "路飞学城",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/luffycity_downloader"
+    },
+    {
+      "id": "gongxuanwang",
+      "name": "公选王",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/gongxuanwang_downloader"
+    },
+    {
+      "id": "meeting",
+      "name": "腾讯会议",
+      "category": "会议与企业培训",
+      "guide_url": "https://www.xuewuzhi.cn/meeting_downloader"
+    },
+    {
+      "id": "icourse163",
+      "name": "中国大学 MOOC（慕课）",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/icourse163_downloader"
+    },
+    {
+      "id": "xueyinonline",
+      "name": "学银在线",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/xueyinonline_downloader"
+    },
+    {
+      "id": "open163",
+      "name": "网易公开课",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/open163_downloader"
+    },
+    {
+      "id": "feishu",
+      "name": "飞书",
+      "category": "会议与企业培训",
+      "guide_url": "https://www.xuewuzhi.cn/feishu_downloader"
+    },
+    {
+      "id": "chaoxing",
+      "name": "超星学习通",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/chaoxing_downloader"
+    },
+    {
+      "id": "zhihuishu",
+      "name": "智慧树",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/zhihuishu_downloader"
+    },
+    {
+      "id": "icve",
+      "name": "智慧职教",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/icve_downloader"
+    },
+    {
+      "id": "smartedu",
+      "name": "智慧中小学",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/smartedu_downloader"
+    },
+    {
+      "id": "xuetangx",
+      "name": "学堂在线",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/xuetangx_downloader"
+    },
+    {
+      "id": "icourses",
+      "name": "爱课程",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/icourses_downloader"
+    },
+    {
+      "id": "unipus",
+      "name": "外语慕课平台",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/unipus_downloader"
+    },
+    {
+      "id": "html_to_mp4",
+      "name": "HTML转MP4",
+      "category": "链接与本地转换",
+      "guide_url": "https://www.xuewuzhi.cn/html_to_mp4_downloader"
+    },
+    {
+      "id": "url_to_mp4",
+      "name": "URL转MP4",
+      "category": "链接与本地转换",
+      "guide_url": "https://www.xuewuzhi.cn/url_to_mp4_downloader"
+    },
+    {
+      "id": "chinesemooc",
+      "name": "华文慕课",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/chinesemooc_downloader"
+    },
+    {
+      "id": "cnmooc",
+      "name": "好大学在线",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/cnmooc_downloader"
+    },
+    {
+      "id": "beichenlinxuan",
+      "name": "北辰遴选",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/beichenlinxuan_downloader"
+    },
+    {
+      "id": "yikaijiang",
+      "name": "医开讲",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yikaijiang_downloader"
+    },
+    {
+      "id": "canto",
+      "name": "加图会计",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/canto_downloader"
+    },
+    {
+      "id": "zhongxunwx",
+      "name": "中讯网校",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/zhongxunwx_downloader"
+    },
+    {
+      "id": "yiqikaojiaoshi",
+      "name": "一起考教师",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yiqikaojiaoshi_downloader"
+    },
+    {
+      "id": "educity",
+      "name": "希赛网",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/educity_downloader"
+    },
+    {
+      "id": "yukebang",
+      "name": "羽课帮",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yukebang_downloader"
+    },
+    {
+      "id": "yanxiu",
+      "name": "研直播",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yanxiu_downloader"
+    },
+    {
+      "id": "xiaoyuanyouke",
+      "name": "小猿优课",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xiaoyuanyouke_downloader"
+    },
+    {
+      "id": "shikaobang",
+      "name": "事考帮",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/shikaobang_downloader"
+    },
+    {
+      "id": "dxy",
+      "name": "丁香园",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/dxy_downloader"
+    },
+    {
+      "id": "moremeditation",
+      "name": "墨尔冥想",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/moremeditation_downloader"
+    },
+    {
+      "id": "dazhaomofang",
+      "name": "大招魔方",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/dazhaomofang_downloader"
+    },
+    {
+      "id": "zuoyebang",
+      "name": "作业帮",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/zuoyebang_downloader"
+    },
+    {
+      "id": "itbaizhan",
+      "name": "百战未来",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/itbaizhan_downloader"
+    },
+    {
+      "id": "zhidao",
+      "name": "志道优学",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/zhidao_downloader"
+    },
+    {
+      "id": "yiihuu",
+      "name": "翼狐网",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yiihuu_downloader"
+    },
+    {
+      "id": "huoke",
+      "name": "获课",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/huoke_downloader"
+    },
+    {
+      "id": "baitong",
+      "name": "百通在线",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/baitong_downloader"
+    },
+    {
+      "id": "benzhixt",
+      "name": "本质筑安",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/benzhixt_downloader"
+    },
+    {
+      "id": "xiaoheiketang",
+      "name": "小黑课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xiaoheiketang_downloader"
+    },
+    {
+      "id": "zxw51",
+      "name": "我要自学网",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/zxw51_downloader"
+    },
+    {
+      "id": "eduzhixin",
+      "name": "质心教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/eduzhixin_downloader"
+    },
+    {
+      "id": "wrclass",
+      "name": "卫人医考",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/wrclass_downloader"
+    },
+    {
+      "id": "youyuan",
+      "name": "有猿医考",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/youyuan_downloader"
+    },
+    {
+      "id": "yincheng",
+      "name": "银成医考",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yincheng_downloader"
+    },
+    {
+      "id": "kandian",
+      "name": "看点微课",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/kandian_downloader"
+    },
+    {
+      "id": "dqb",
+      "name": "电气帮",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/dqb_downloader"
+    },
+    {
+      "id": "cto51_saas",
+      "name": "51CTO企业版",
+      "category": "会议与企业培训",
+      "guide_url": "https://www.xuewuzhi.cn/cto51_saas_downloader"
+    },
+    {
+      "id": "youkeyun",
+      "name": "友课云",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/youkeyun_downloader"
+    },
+    {
+      "id": "zqzh",
+      "name": "中企教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/zqzh_downloader"
+    },
+    {
+      "id": "shangan",
+      "name": "上岸",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/shangan_downloader"
+    },
+    {
+      "id": "huomiao",
+      "name": "火苗会议",
+      "category": "会议与企业培训",
+      "guide_url": "https://www.xuewuzhi.cn/huomiao_downloader"
+    },
+    {
+      "id": "bajianyousheng",
+      "name": "拔尖优生",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/bajianyousheng_downloader"
+    },
+    {
+      "id": "xinghuo",
+      "name": "星火教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xinghuo_downloader"
+    },
+    {
+      "id": "sparke",
+      "name": "星火英语",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/sparke_downloader"
+    },
+    {
+      "id": "youlu",
+      "name": "优路教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/youlu_downloader"
+    },
+    {
+      "id": "lexuepeiyou",
+      "name": "乐学培优",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/lexuepeiyou_downloader"
+    },
+    {
+      "id": "mison",
+      "name": "美森教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/mison_downloader"
+    },
+    {
+      "id": "zixueb",
+      "name": "自学帮",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/zixueb_downloader"
+    },
+    {
+      "id": "yuketang",
+      "name": "雨课堂",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/yuketang_downloader"
+    },
+    {
+      "id": "jhpyedu",
+      "name": "家辉教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/jhpyedu_downloader"
+    },
+    {
+      "id": "xuexi1998",
+      "name": "1998课堂",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xuexi1998_downloader"
+    },
+    {
+      "id": "cctv",
+      "name": "CCTV央视频",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/cctv_downloader"
+    },
+    {
+      "id": "baijiayun",
+      "name": "百家云链接",
+      "category": "链接与本地转换",
+      "guide_url": "https://www.xuewuzhi.cn/baijiayun_downloader"
+    },
+    {
+      "id": "gaodoudou",
+      "name": "高豆豆",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/gaodoudou_downloader"
+    },
+    {
+      "id": "geekbang",
+      "name": "极客时间",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/geekbang_downloader"
+    },
+    {
+      "id": "sikiedu",
+      "name": "SiKi学院",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/sikiedu_downloader"
+    },
+    {
+      "id": "yuanfudaosuyang",
+      "name": "猿辅导素养课",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yuanfudaosuyang_downloader"
+    },
+    {
+      "id": "xuetian",
+      "name": "学天教育",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/xuetian_downloader"
+    },
+    {
+      "id": "dingtalk_yunxuetang",
+      "name": "钉钉云学堂",
+      "category": "会议与企业培训",
+      "guide_url": "https://www.xuewuzhi.cn/dingtalk_yunxuetang_downloader"
+    },
+    {
+      "id": "dingtalk_yunketang",
+      "name": "钉钉云课堂",
+      "category": "会议与企业培训",
+      "guide_url": "https://www.xuewuzhi.cn/dingtalk_yunketang_downloader"
+    },
+    {
+      "id": "yuyou",
+      "name": "誉优在线",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yuyou_downloader"
+    },
+    {
+      "id": "pukewx",
+      "name": "扑课网校",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/pukewx_downloader"
+    },
+    {
+      "id": "universal",
+      "name": "万能下载模式",
+      "category": "链接与本地转换",
+      "guide_url": "https://www.xuewuzhi.cn/universal_downloader"
+    },
+    {
+      "id": "enetedu",
+      "name": "高校教师网培中心",
+      "category": "高校与公共课程",
+      "guide_url": "https://www.xuewuzhi.cn/enetedu_downloader"
+    },
+    {
+      "id": "media_links",
+      "name": "MP4、MP3 与 M3U8 链接",
+      "category": "链接与本地转换",
+      "guide_url": "https://www.xuewuzhi.cn/media_links_downloader"
+    }
+  ]
+}
