@@ -3,11 +3,11 @@
 
 ## 下载哪个文件
 
-打开 [Releases](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest)，下载 `xuewuzhi-downloader-2.19.54-windows.exe`，这是官方 Windows 客户端。
+打开 [Releases](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest)，下载 `xuewuzhi-downloader-2.19.56-windows.exe`，这是官方 Windows 客户端。
 
 | 文件 | 用途 |
 | --- | --- |
-| `xuewuzhi-downloader-2.19.54-windows.exe` | Windows 客户端发布包 |
+| `xuewuzhi-downloader-2.19.56-windows.exe` | Windows 客户端发布包 |
 | `SHA256SUMS.txt` | 与发布包配套的完整性校验值 |
 | GitHub 自动生成的 Source code | 公开骨架与文档，不包含完整下载器 |
 
@@ -30,8 +30,8 @@
 在下载目录打开 PowerShell：
 
 ```powershell
-Get-FileHash -LiteralPath '.\xuewuzhi-downloader-2.19.54-windows.exe' -Algorithm SHA256
-Get-AuthenticodeSignature -LiteralPath '.\xuewuzhi-downloader-2.19.54-windows.exe' |
+Get-FileHash -LiteralPath '.\xuewuzhi-downloader-2.19.56-windows.exe' -Algorithm SHA256
+Get-AuthenticodeSignature -LiteralPath '.\xuewuzhi-downloader-2.19.56-windows.exe' |
     Select-Object Status, @{Name='Publisher'; Expression={$_.SignerCertificate.Subject}}
 ```
 

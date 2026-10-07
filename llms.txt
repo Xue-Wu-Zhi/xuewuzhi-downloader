@@ -4,7 +4,7 @@
 
 ## Product facts
 
-- Official client: Windows, V2.19.54, released 2026-10-03.
+- Official client: Windows, V2.19.56, released 2026-10-07.
 - Public scaffold: version 0.1.0, Python 3.9+, MIT. It only runs offline demonstrations.
 - Tutorial snapshot: 2026-10-01; the source catalog labels itself V2.19.52.
 - Coverage is 151 platform-oriented entries and 5 link/conversion tools, not independently tested service counts.

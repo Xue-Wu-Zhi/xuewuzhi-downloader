@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="204" height="30" viewBox="0 0 204 30" role="img" aria-labelledby="title">
-<title id="title">Windows 客户端 V2.19.54</title>
+<title id="title">Windows 客户端 V2.19.56</title>
 <style>text{font-family:"Microsoft YaHei","PingFang SC","Segoe UI",sans-serif}</style>
 
 <clipPath id="r"><rect width="204" height="30" rx="6"/></clipPath>
@@ -8,6 +8,6 @@
   <rect x="117" width="87" height="30" fill="#285e99"/>
 </g>
 <text x="58.5" y="20" font-size="12" fill="#29445f" text-anchor="middle">Windows 客户端</text>
-<text x="160.5" y="20" font-size="12" fill="#fff" text-anchor="middle">V2.19.54</text>
+<text x="160.5" y="20" font-size="12" fill="#fff" text-anchor="middle">V2.19.56</text>
 
 </svg>
