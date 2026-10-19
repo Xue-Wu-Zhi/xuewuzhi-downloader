@@ -23,7 +23,9 @@ Xuewuzhi Downloader (学无止下载器) is a Windows desktop client for course 
 - Direct media links and selected HTML / URL conversion tools.
 - A universal download mode, subject to the resources it can identify.
 
-The public tutorial snapshot has **156 entries**: 151 platform-oriented guides and 5 link or conversion guides. Some entries cover different products or entry points from the same brand. This is a documentation count, not a claim of 156 independently tested services.
+The public tutorial snapshot has **160 entries**: 155 platform-oriented guides and 5 link or conversion guides. Some entries cover different products or entry points from the same brand. This is a documentation count, not a claim of 160 independently tested services.
+
+The catalog is aligned with V2.19.62 as of 2026-10-19, including Yikaobang, Sihai Gongkao, Zhi10 and DingTalk Drive. Video-site capture and WeChat Channels audio are described in the [universal-mode guide](docs/wiki/Platform-universal.md).
 
 See the [platform index](docs/wiki/Platforms.md), [getting started](docs/wiki/Getting-Started.md) and [troubleshooting guide](docs/wiki/Troubleshooting.md). Detailed guides are currently in Chinese.
 

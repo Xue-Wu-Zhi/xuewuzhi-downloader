@@ -25,13 +25,15 @@
     "课程附件",
     "支持格式的板书与三分屏",
     "有效媒体直链",
-    "支持格式的课程转换"
+    "支持格式的课程转换",
+    "钉盘原格式文件",
+    "可识别站点视频与视频号音频"
   ],
   "catalog": {
     "source": "https://www.xuewuzhi.cn/tutorials",
-    "snapshot_date": "2026-10-01",
-    "catalog_version": "V2.19.52",
-    "platform_entries": 151,
+    "snapshot_date": "2026-10-19",
+    "catalog_version": "V2.19.62",
+    "platform_entries": 155,
     "utility_entries": 5,
     "count_note": "入口及文档数量，不是独立服务商数量或逐项实测承诺"
   },

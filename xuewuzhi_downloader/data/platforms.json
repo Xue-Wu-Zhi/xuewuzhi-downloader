@@ -1,7 +1,7 @@
 {
   "source": "https://www.xuewuzhi.cn/tutorials",
-  "snapshot_date": "2026-10-01",
-  "source_catalog_version": "V2.19.52",
+  "snapshot_date": "2026-10-19",
+  "source_catalog_version": "V2.19.62",
   "scope": "Official client tutorial entries; proprietary adapters are not included.",
   "entries": [
     {
@@ -147,6 +147,12 @@
       "name": "钉钉群与钉钉链接",
       "category": "会议与企业培训",
       "guide_url": "https://www.xuewuzhi.cn/dingtalk_downloader"
+    },
+    {
+      "id": "dingpan",
+      "name": "钉盘文件",
+      "category": "会议与企业培训",
+      "guide_url": "https://www.xuewuzhi.cn/dingpan_downloader"
     },
     {
       "id": "xiaoetech",
@@ -939,6 +945,24 @@
       "name": "MP4、MP3 与 M3U8 链接",
       "category": "链接与本地转换",
       "guide_url": "https://www.xuewuzhi.cn/media_links_downloader"
+    },
+    {
+      "id": "yikaobang",
+      "name": "医考帮",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/yikaobang_downloader"
+    },
+    {
+      "id": "sihaigongkao",
+      "name": "四海公考",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/sihaigongkao_downloader"
+    },
+    {
+      "id": "zhi10",
+      "name": "智拾网",
+      "category": "网课与学习平台",
+      "guide_url": "https://www.xuewuzhi.cn/zhi10_downloader"
     }
   ]
 }

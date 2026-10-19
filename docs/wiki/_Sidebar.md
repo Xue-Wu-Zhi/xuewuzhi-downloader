@@ -8,6 +8,12 @@
 - [完整下载流程](Download-Workflow.md)
 - [平台与工具索引](Platforms.md)
 
+**V2.19.62 补齐的入口**
+- [医考帮](Platform-yikaobang.md)
+- [四海公考](Platform-sihaigongkao.md)
+- [智拾网](Platform-zhi10.md)
+- [钉盘文件](Platform-dingpan.md)
+
 **课程内容**
 - [登录与账号](Login-and-Accounts.md)
 - [课程与章节](Courses-and-Selection.md)
