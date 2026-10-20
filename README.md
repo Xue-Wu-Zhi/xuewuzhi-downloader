@@ -9,7 +9,7 @@
 **网课视频下载 · 课件下载 · 直播回放保存 · 三分屏课程处理**
 
 <p>
-  <a href="https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest"><img src="assets/badge-release.svg" alt="Windows 客户端 V2.19.62"></a>
+  <a href="https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest"><img src="assets/badge-release.svg" alt="Windows 客户端 V2.19.63"></a>
   <a href="docs/wiki/Platforms.md"><img src="assets/badge-guides.svg" alt="160 项公开使用指南"></a>
   <a href="LICENSE"><img src="assets/badge-license.svg" alt="公开骨架 MIT License"></a>
 </p>
@@ -53,7 +53,7 @@
 
 ### 1. 下载客户端
 
-打开 **[最新 Release](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest)**，选择 `xuewuzhi-downloader-2.19.62-windows.exe`。这是 Windows 客户端；GitHub 自动生成的 `Source code` 压缩包是本仓库的开源骨架。
+打开 **[最新 Release](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest)**，选择 `xuewuzhi-downloader-2.19.63-windows.exe`。这是 Windows 客户端；GitHub 自动生成的 `Source code` 压缩包是本仓库的开源骨架。
 
 ### 2. 找到课程
 
@@ -203,9 +203,9 @@ python -m xuewuzhi_downloader platforms --query MOOC
 
 ## 版本与下载
 
-**官方 Windows 客户端：V2.19.62 · 2026-10-19**
+**官方 Windows 客户端：V2.19.63 · 2026-10-20**
 
-本次版本改善连接稳定性、课程回放与采集体验。详细内容见 [Release 说明](docs/releases/v2.19.62.md)，文件校验见 [校验指南](docs/wiki/Release-and-Checksums.md)。公开骨架单独使用 `0.1.0` 版本号。
+本次版本完善课程列表、批量下载与回放稳定性。详细内容见 [Release 说明](docs/releases/v2.19.63.md)，文件校验见 [校验指南](docs/wiki/Release-and-Checksums.md)。公开骨架单独使用 `0.1.0` 版本号。
 
 [**获取最新客户端**](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest)　 · 　[官网备用下载](https://www.xuewuzhi.cn/downloader)　 · 　[版本记录](CHANGELOG.md)
 

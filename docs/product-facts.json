@@ -6,8 +6,8 @@
   "website": "https://www.xuewuzhi.cn/downloader",
   "description": "Windows 网课视频下载与课件整理工具，支持的资源以平台、账号权限和课程开放状态为准。",
   "client": {
-    "version": "V2.19.62",
-    "release_date": "2026-10-19",
+    "version": "V2.19.63",
+    "release_date": "2026-10-20",
     "operating_system": "Windows",
     "download_url": "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest"
   },
@@ -42,7 +42,7 @@
   "sources": [
     "https://www.xuewuzhi.cn/downloader",
     "https://www.xuewuzhi.cn/tutorials",
-    "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/docs/releases/v2.19.62.md"
+    "https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/blob/main/docs/releases/v2.19.63.md"
   ],
-  "compiled_on": "2026-10-19"
+  "compiled_on": "2026-10-20"
 }
