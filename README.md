@@ -53,6 +53,8 @@
 
 ### 1. 下载客户端
 
+**更新要求（2026-10-28）：** 所有低于 V2.19.65 的客户端均需强制更新到 V2.19.65 后继续使用，不再提供“暂不更新”。已安装 V2.19.65 的用户无需重复更新。
+
 打开 **[最新 Release](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest)**，选择 `xuewuzhi-downloader-2.19.65-windows.exe`。这是 Windows 客户端；GitHub 自动生成的 `Source code` 压缩包是本仓库的开源骨架。
 
 ### 2. 找到课程
