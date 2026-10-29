@@ -44,9 +44,9 @@ The demo prints a fictional course tree. It does not contact a platform, read cr
 
 ## Releases and licensing
 
-**Update requirement (2026-10-28):** All clients older than V2.19.65 must update to V2.19.65 to continue using the service. Skipping the update is no longer supported. Clients already on V2.19.65 do not need to reinstall.
+**Update requirement (2026-10-30):** V2.19.65 and V2.19.66 can optionally update to V2.19.67 and may continue using course features. Previously retired older versions still require an update.
 
-The current official Windows release is **V2.19.65**, dated **2026-10-28**. The public scaffold is version **0.1.0**. Download `xuewuzhi-downloader-2.19.65-windows.exe` from [Releases](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest); the automatically generated source archives contain only this public repository.
+The current official Windows release is **V2.19.67**, dated **2026-10-30**. The public scaffold is version **0.1.0**. Download `xuewuzhi-downloader-2.19.67-windows.exe` from [Releases](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest); the automatically generated source archives contain only this public repository.
 
 Public code and documentation use the [MIT License](LICENSE). The official client binaries and their third-party components have separate terms; see [NOTICE](NOTICE.md). Only save content you have permission to access and retain.
 
