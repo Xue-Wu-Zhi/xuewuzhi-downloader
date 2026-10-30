@@ -207,7 +207,7 @@ python -m xuewuzhi_downloader platforms --query MOOC
 
 **官方 Windows 客户端：V2.19.67 · 2026-10-30**
 
-本次版本加强课程通信保护，改善断网、切网与休眠恢复。详细内容见 [Release 说明](docs/releases/v2.19.67.md)，文件校验见 [校验指南](docs/wiki/Release-and-Checksums.md)。公开骨架单独使用 `0.1.0` 版本号。
+下载与文件信息见 [Release 说明](docs/releases/v2.19.67.md)，文件校验见 [校验指南](docs/wiki/Release-and-Checksums.md)。公开骨架单独使用 `0.1.0` 版本号。
 
 [**获取最新客户端**](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest)　 · 　[官网备用下载](https://www.xuewuzhi.cn/downloader)　 · 　[版本记录](CHANGELOG.md)
 
