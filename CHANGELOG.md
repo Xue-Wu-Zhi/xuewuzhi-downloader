@@ -1,7 +1,7 @@
 # 客户端版本
 
-当前正式版：**V2.19.67** · Windows · 2026-10-30。
+当前正式版：**V2.19.69** · Windows · 2026-11-02。
 
-所有低于 V2.19.67 的客户端需更新至 V2.19.67 后继续使用。已安装 V2.19.67 的用户无需重复更新。
+旧版客户端需升级至 V2.19.69 后继续使用。支持自动更新的旧版会在启动时引导升级；自动更新失败或版本过早时，请从官网下载并安装最新版。V2.19.69 无需重复更新。
 
-[下载当前正式版](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest) · [下载与文件校验](docs/releases/v2.19.67.md)
+[下载当前正式版](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest) · [下载与文件校验](docs/releases/v2.19.69.md)
