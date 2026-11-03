@@ -44,9 +44,7 @@ The demo prints a fictional course tree. It does not contact a platform, read cr
 
 ## Releases and licensing
 
-**Update requirement (2026-11-02):** Previous releases must update to V2.19.69 to continue using the service. Releases with a working updater can update on startup; if updating fails or the release has no updater, download and install the latest version from the official website. V2.19.69 does not need to reinstall.
-
-The current official Windows release is **V2.19.69**, dated **2026-11-02**. The public scaffold is version **0.1.0**. Download `xuewuzhi-downloader-2.19.69-windows.exe` from [Releases](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest); the automatically generated source archives contain only this public repository.
+The current official Windows release is **V2.19.70**, dated **2026-11-03**. The public scaffold is version **0.1.0**. Download `xuewuzhi-downloader-2.19.70-windows.exe` from [Releases](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest); the automatically generated source archives contain only this public repository.
 
 Public code and documentation use the [MIT License](LICENSE). The official client binaries and their third-party components have separate terms; see [NOTICE](NOTICE.md). Only save content you have permission to access and retain.
 
