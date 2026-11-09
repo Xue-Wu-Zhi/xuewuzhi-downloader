@@ -12,12 +12,12 @@
 
 ## 正确获取文件
 
-从 [Releases](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest) 下载 `xuewuzhi-downloader-2.19.75-windows.exe` 和 `SHA256SUMS.txt`。GitHub 自动提供的源代码压缩包只对应公开仓库。
+从 [Releases](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest) 下载 `xuewuzhi-downloader-2.19.75-windows-build-1de155f08435ab78.exe` 和 `SHA256SUMS-build-1de155f08435ab78.txt`。GitHub 自动提供的源代码压缩包只对应公开仓库。
 
 ## 校验流程
 
 1. 使用 PowerShell 的 `Get-FileHash -Algorithm SHA256` 计算实际下载文件。
-2. 与同一版本 `SHA256SUMS.txt` 中对应文件名的值比较。
+2. 与同一版本 `SHA256SUMS-build-1de155f08435ab78.txt` 中对应文件名的值比较。
 3. 使用文件属性中的数字签名，或 `Get-AuthenticodeSignature`，核对发布者。
 
 SHA-256 可以发现文件内容是否与发布记录一致；数字签名用于核对签名状态和发布者。校验值应从可信发布页面获取，不能仅比较一个来历不明的文件和它附带的校验文本。

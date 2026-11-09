@@ -3,12 +3,12 @@
 
 ## 下载哪个文件
 
-打开 [Releases](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest)，下载 `xuewuzhi-downloader-2.19.75-windows.exe`，这是官方 Windows 客户端。
+打开 [Releases](https://github.com/Xue-Wu-Zhi/xuewuzhi-downloader/releases/latest)，下载 `xuewuzhi-downloader-2.19.75-windows-build-1de155f08435ab78.exe`，这是官方 Windows 客户端。
 
 | 文件 | 用途 |
 | --- | --- |
-| `xuewuzhi-downloader-2.19.75-windows.exe` | Windows 客户端发布包 |
-| `SHA256SUMS.txt` | 与发布包配套的完整性校验值 |
+| `xuewuzhi-downloader-2.19.75-windows-build-1de155f08435ab78.exe` | Windows 客户端发布包 |
+| `SHA256SUMS-build-1de155f08435ab78.txt` | 与发布包配套的完整性校验值 |
 | GitHub 自动生成的 Source code | 公开骨架与文档，不包含完整下载器 |
 
 官网提供[备用下载入口](https://www.xuewuzhi.cn/downloader)。当前发布包面向 Windows，不能据此认为存在 macOS 或 Linux 原生客户端。开源 Python 示例的运行环境另见[开发指南](Development.md)。
@@ -30,12 +30,12 @@
 在下载目录打开 PowerShell：
 
 ```powershell
-Get-FileHash -LiteralPath '.\xuewuzhi-downloader-2.19.75-windows.exe' -Algorithm SHA256
-Get-AuthenticodeSignature -LiteralPath '.\xuewuzhi-downloader-2.19.75-windows.exe' |
+Get-FileHash -LiteralPath '.\xuewuzhi-downloader-2.19.75-windows-build-1de155f08435ab78.exe' -Algorithm SHA256
+Get-AuthenticodeSignature -LiteralPath '.\xuewuzhi-downloader-2.19.75-windows-build-1de155f08435ab78.exe' |
     Select-Object Status, @{Name='Publisher'; Expression={$_.SignerCertificate.Subject}}
 ```
 
-第一条输出应与同一 Release 的 `SHA256SUMS.txt` 一致，比较时忽略大小写。该版本检查时签名状态为 `Valid`，发布者为“杭州学无止软件有限公司”。签名和哈希回答不同的问题，详见[版本与校验](Release-and-Checksums.md)。
+第一条输出应与同一 Release 的 `SHA256SUMS-build-1de155f08435ab78.txt` 一致，比较时忽略大小写。该版本检查时签名状态为 `Valid`，发布者为“杭州学无止软件有限公司”。签名和哈希回答不同的问题，详见[版本与校验](Release-and-Checksums.md)。
 
 ## 更新前后
 
